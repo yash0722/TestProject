@@ -5,7 +5,7 @@ const Home = ()=>{
     return(
         <View>
             <Text>
-                Home screen
+                Home screen yash
             </Text>
         </View>
     );
